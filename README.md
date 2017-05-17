@@ -27,4 +27,8 @@ https://github.com/espressif/esp-idf/tree/master/examples/protocols/https_reques
 
 ***
 
+### Blog
+
+http://knaka0209.blogspot.jp/2017/05/esp32-12.html
+
 
