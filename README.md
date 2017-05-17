@@ -1,5 +1,30 @@
-# HTTPS Request Example
+﻿# esp32+ HTTPS, IFTTT connect
 
-Uses an mbedTLS socket to make a very simple HTTPS request over a secure connection, including verifying the server TLS certificate.
+ Version: 0.9.1
 
-See the README.md file in the upper level 'examples' directory for more information about examples.
+ Author  : Kouji Nakashima / kuc-arc-f.com
+
+ date    : 2017/05/17
+
+ update : 
+***
+
+## thanks
+
+example/https_request
+
+https://github.com/espressif/esp-idf/tree/master/examples/protocols/https_request
+
+
+
+***
+
+
+## Summary
+ esp32+ HTTPS , IFTTT connect sample.
+
+
+
+***
+
+
