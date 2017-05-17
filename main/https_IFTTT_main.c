@@ -262,7 +262,6 @@ static void https_get_task(void *pvParameters)
 		char sReq1[64+1];
 		char sReq2[64+1];
 		char sBuff[128+1];
-		// https://maker.ifttt.com/trigger/test2/with/key/WMj9zotziSVsjO8oQ0471?value1=33
 		sprintf(sReq1, "GET %s/trigger/%s/with/key/%s?value1=%d  HTTP/1.1\n" ,  WEB_URL, mTrigger ,mAPI_KEY , mCounter );
 		sprintf(sReq2, "Host:  %s \n" ,  WEB_SERVER);
 		sprintf(sBuff, "%s%s%s" ,  sReq1, sReq2, REQUEST_2 );
